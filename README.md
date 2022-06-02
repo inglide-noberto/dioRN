@@ -20,7 +20,7 @@
       -  Download android s 
       -  Criar um avd (Android Virtual Device)
 - Criação do projeto
-  - Uso do REact Native Cli
+  - Uso do React Native Cli
   - Estrutura de pasta
 - Projeto Profile
   - View
